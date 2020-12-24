@@ -1,0 +1,9 @@
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\bin\Debug\FinalJob.exe.config
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\bin\Debug\FinalJob.exe
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\bin\Debug\FinalJob.pdb
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\obj\Debug\FinalJob.csprojAssemblyReference.cache
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\obj\Debug\FinalJob.csproj.CoreCompileInputs.cache
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\obj\Debug\FinalJob.exe
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\obj\Debug\FinalJob.pdb
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\bin\Debug\WordCloudSharp.dll
+C:\Users\mikiy\Desktop\c#大作业\FinalJob\FinalJob\obj\Debug\FinalJob.csproj.CopyComplete
